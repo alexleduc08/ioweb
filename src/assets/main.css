@@ -6,8 +6,11 @@
 
 .io-title {
   font-family: 'Poppins', sans-serif;
-  font-weight: 700;
-  font-size: large;
+  letter-spacing: .1rem;
+  line-height: 124px;
+  font-weight: 600;
+  font-size: 120px;
+  color: #F5FCFA;
 }
 
 .io-subtitle {
