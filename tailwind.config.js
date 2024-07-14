@@ -5,7 +5,7 @@ export default {
     extend: {
       colors: {
         'io-accent': '#FFE609',
-        'io-dark': '#1E1E1E',
+        'io-dark': '#1C1C1C',
         'io-light': '#F5FCFA'
       }
     }
